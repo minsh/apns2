@@ -7,7 +7,7 @@
   "types": "dist/index.d.ts",
   "license": "MIT",
   "engines": {
-    "node": ">=16"
+    "node": ">=14"
   },
   "repository": {
     "url": "https://github.com/AndrewBarba/apns2"
