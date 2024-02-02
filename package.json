@@ -29,7 +29,7 @@
   ],
   "dependencies": {
     "fetch-http2": "^1.3.0",
-    "fast-jwt": "^3.3.2"
+    "fast-jwt": "https://github.com/minsh/fast-jwt.get#c1c34baad152e5517db31d438cfa6cc95423f253"
   },
   "devDependencies": {
     "@biomejs/biome": "^1.5.3",
